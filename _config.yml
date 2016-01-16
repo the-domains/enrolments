@@ -1,0 +1,28 @@
+name: 'Enrolments '
+favicon: null
+layout_spectrum: 0.014659574255347252
+typography_spectrum: 0.6984341039787978
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.32946365722455084
+  lightness: 0.2805414339527488
+  saturation: 0.2683917321264744
+  rhythmicContrast: 0.3109737590420991
+purpose: []
